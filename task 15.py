@@ -22,3 +22,4 @@ while i <= n:
     i += 1
 print("Максимальный вес:", max_mass)
 print("Минимальный вес:", min_mass)
+
